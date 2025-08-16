@@ -27,6 +27,7 @@ import io.jsonwebtoken.io.Decoders;
 import io.jsonwebtoken.security.Keys;
 import lombok.extern.slf4j.Slf4j;
 
+// Jwt 관련 로직
 @Slf4j
 @Component
 public class JwtTokenProvider {
